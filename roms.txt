@@ -1,0 +1,30 @@
+Battletoads (USA).nes
+Castlevania - Symphony of the Night (USA) (Track 1).bin
+Castlevania - Symphony of the Night (USA) (Track 2).bin
+Castlevania - Symphony of the Night (US).cue
+Castlevania (USA).nes
+Contra (USA).nes
+Crash Bandicoot (USA).bin
+Crash Bandicoot (US).cue
+Donkey Kong (World).gb
+Excitebike (Japan, USA).nes
+Final Fantasy Tactics (USA).bin
+Final Fantasy Tactics (USA).cue
+Kirby_s Dream Land 2 (USA, Europe).gb
+Mega Man 2 (USA).nes
+Mega Man X4 (U) [SLUS-00561].bin
+Mega Man X4 (U) [SLUS-00561].cue
+Metroid II - Return of Samus (World).gb
+Ninja Gaiden (USA).nes
+Pokemon - Blue Version (USA, Europe).gb
+Silent Hill (USA).bin
+Silent Hill (USA).cue
+Strider 2 (USA).bin
+Strider 2 (USA).cue
+Super Mario Bros. 3 (USA).nes
+Super Mario Bros. (World).nes
+Super Mario Land 2 - 6 Golden Coins (USA, Europe).gb
+System Volume Information
+Tennis (Japan, USA).nes
+Tetris (World) (Rev 1).gb
+The Legend of Zelda - Link's Awakening (USA).gb

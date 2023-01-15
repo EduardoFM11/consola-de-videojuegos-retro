@@ -1,0 +1,3 @@
+0x01400004  0 raspberrypi VNC Server
+0x00e00003  0 raspberrypi python3
+0x01a00007  0 raspberrypi Mednaffe
